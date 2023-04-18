@@ -1,4 +1,4 @@
-"""Greeting Flask app."""
+"""Greeting Flask app. """
 
 from random import choice
 
